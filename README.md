@@ -2,7 +2,7 @@
 
 Dream-Demon is a roguelike game crafted with Unity, taking you into a surreal world where dreams and nightmares collide. As a dream-walker, you navigate through shifting landscapes filled with lurking demons and twisted realities. Each dreamscape is a test of courage and skill, challenging you to uncover hidden secrets and confront the darkness within. Every run offers new obstacles and abilities, urging you to push further into the unknown.
 
-![Dream & Demon Gameplay](./public/assets/gameplay.jpg)
+![Dream & Demon Gameplay](https://github.com/echo-play/dream-demon/blob/main/public/game/asset.jpg?raw=true)
 
 Embark on an epic journey through endless waves of demons in this thrilling roguelike adventure. Harness the power of 20+ unique weapons and abilities as you fight your way through hordes of monsters, growing stronger with each victory. Will you survive long enough to face the ultimate challenge and become a legend?
 
